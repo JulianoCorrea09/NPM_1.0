@@ -18,7 +18,7 @@ public class Arquivo {
 	BufferedReader bufferedReader = null;
 	
 	
-	
+	//Ler arquivo
 	public void lerArquivo(String caminho){
 		
 		try {
