@@ -21,6 +21,7 @@ public class Arquivo {
 	//teste 3
 	//Ler arquivo
 	//quarta vez
+	//quinta vez
 	public void lerArquivo(String caminho){
 		
 		try {
