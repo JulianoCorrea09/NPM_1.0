@@ -20,6 +20,7 @@ public class Arquivo {
 	///testando o git mais uma vez
 	//teste 3
 	//Ler arquivo
+	//quarta vez
 	public void lerArquivo(String caminho){
 		
 		try {
