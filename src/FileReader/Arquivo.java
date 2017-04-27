@@ -25,6 +25,7 @@ public class Arquivo {
 	//sexta vez
 	//setima vez
 	//oitava vez cccc
+	//nona
 	public void lerArquivo(String caminho){
 		
 		try {
