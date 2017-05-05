@@ -17,7 +17,7 @@ public class Arquivo {
 	FileReader fileReader = null;
 	BufferedReader bufferedReader = null;
 	
-	///hoje é mais um teste
+	///hoje é mais um teste, novo
 	public void lerArquivo(String caminho){
 		
 		try {
