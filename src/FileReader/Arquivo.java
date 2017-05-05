@@ -17,15 +17,7 @@ public class Arquivo {
 	FileReader fileReader = null;
 	BufferedReader bufferedReader = null;
 	
-	///testando o git mais uma vez
-	//teste 3
-	//Ler arquivo
-	//quarta vez
-	//quinta vez
-	//sexta vez
-	//setima vez
-	//oitava vez cccc
-	//nona
+	///hoje
 	public void lerArquivo(String caminho){
 		
 		try {
